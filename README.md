@@ -117,6 +117,7 @@ http://localhost:3000
 
 ## 💻 Application Preview
 
+<img width="1291" height="582" alt="Rest-Book-API-Homepage" src="https://github.com/user-attachments/assets/24968eef-93da-4785-9910-1f7dd66e95f1" />
 
 ---
 
