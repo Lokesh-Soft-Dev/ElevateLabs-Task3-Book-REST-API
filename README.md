@@ -1,4 +1,4 @@
-# 📚 Elevate Labs Internship – Day Task 3
+## 📚 Elevate Labs Internship – Day Task 3
 
 ## 🔗 Project Links
 
